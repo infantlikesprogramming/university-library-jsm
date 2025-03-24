@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf7cb3fd-fb2d-4594-a064-6b1ddf877aa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-in/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/my-profile/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/auth/imagekit/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/workflows/onboarding/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/too-fast/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookCover.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookOverview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ImageUpload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/drizzle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/redis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drizzle.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ratelimit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/workflow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uXVpKB0l8UHo4jsdyJB41ZCC7b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;C:\\Users\\giatl\\WebstormProjects\\untitled\\node_modules\\eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/giatl/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\giatl\\WebstormProjects\\untitled\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\giatl\\WebstormProjects\\untitled\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\app" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\app\api\auth" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\app\(root)" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf7cb3fd-fb2d-4594-a064-6b1ddf877aa2" name="Changes" comment="" />
+      <created>1742395089381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742395089381</updated>
+      <workItem from="1742395090222" duration="4448000" />
+      <workItem from="1742433535234" duration="2246000" />
+      <workItem from="1742435815857" duration="17898000" />
+      <workItem from="1742470848084" duration="1878000" />
+      <workItem from="1742517383159" duration="15271000" />
+      <workItem from="1742603371305" duration="13899000" />
+      <workItem from="1742642315667" duration="5067000" />
+      <workItem from="1742783645279" duration="1356000" />
+      <workItem from="1742791684022" duration="906000" />
+      <workItem from="1742792913711" duration="932000" />
+      <workItem from="1742807573983" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
