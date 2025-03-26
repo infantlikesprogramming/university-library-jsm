@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf7cb3fd-fb2d-4594-a064-6b1ddf877aa2" name="Changes" comment="" />
+    <list default="true" id="bf7cb3fd-fb2d-4594-a064-6b1ddf877aa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/(root)/books/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/books/new/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/books/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookVideo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FileUpload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/admin/ColorPicker.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/admin/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/admin/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/admin/forms/BookForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/admin/actions/book.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BookCover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BookCover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BookList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BookList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BookOverview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BookOverview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/schema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/database/schema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/validations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/validations.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/meta/_journal.json" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/meta/_journal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +45,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2uXVpKB0l8UHo4jsdyJB41ZCC7b" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,9 +76,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\giatl\WebstormProjects\untitled\app" />
-      <recent name="C:\Users\giatl\WebstormProjects\untitled\app\api\auth" />
-      <recent name="C:\Users\giatl\WebstormProjects\untitled\app\(root)" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\lib\actions" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\database" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\lib\admin\actions" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\lib\admin" />
+      <recent name="C:\Users\giatl\WebstormProjects\untitled\lib" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -76,7 +108,10 @@
       <workItem from="1742783645279" duration="1356000" />
       <workItem from="1742791684022" duration="906000" />
       <workItem from="1742792913711" duration="932000" />
-      <workItem from="1742807573983" duration="9888000" />
+      <workItem from="1742807573983" duration="10404000" />
+      <workItem from="1742833156760" duration="189000" />
+      <workItem from="1742870046242" duration="21535000" />
+      <workItem from="1742949411877" duration="11584000" />
     </task>
     <servers />
   </component>

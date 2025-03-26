@@ -8,6 +8,20 @@
       "when": 1742608310553,
       "tag": "0000_heavy_komodo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1742903039516,
+      "tag": "0001_overrated_risque",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1742958768751,
+      "tag": "0002_groovy_loa",
+      "breakpoints": true
     }
   ]
 }
