@@ -51,7 +51,7 @@ const BookOverview = async ({
           </p>
 
           <div className="flex flex-row gap-1">
-            <Image src="icons/star.svg" alt="star" width={22} height={22} />
+            <Image src="/icons/star.svg" alt="star" width={22} height={22} />
             <p>{rating}</p>
           </div>
         </div>
